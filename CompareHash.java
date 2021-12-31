@@ -4,7 +4,7 @@ import java.security.MessageDigest;
 import java.io.*;
 
 
-public class CS210project {
+public class CompareHash {
     public static void main(String[]args) {
 
         String line;
